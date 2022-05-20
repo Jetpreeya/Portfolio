@@ -8,7 +8,7 @@ const About = () => {
           <img src={Pic} alt="myImage" className="a-img"/>
       </div>
       <div className="Name">
-        <h1>Hello, My name is Jetpreeya Yawichai.</h1>
+        <h1>My name is Jetpreeya Yawichai.</h1>
         <h3>Front-end Web Developer</h3>
         </div>
     </div>
