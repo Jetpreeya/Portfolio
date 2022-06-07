@@ -1,7 +1,9 @@
 import './App.css';
+import { Routes, Route } from "react-router-dom";
 import Navbar from './components/navbar/navbar'
 import About from './components/about/about'
 import Contract from './components/contract/contract';
+import AboutMe from './components/aboutMe/aboutMe';
 
 function App() {
   return (
@@ -9,6 +11,9 @@ function App() {
       <Navbar/>
       <About/>
       <Contract/>
+      <Routes>
+      <Route path="/AboutMe" element={<AboutMe />} />
+      </Routes>
     </div>
   );
 }

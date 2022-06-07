@@ -24,8 +24,12 @@
 
 .linkedin-a,
 .github,
-.gmail {
+.gmail
+.email-G {
     display: grid;
     position: center;
     margin-left: 20px;
+    text-decoration: none;
+    color: cadetblue;
+    font-size: 15px;
 }
