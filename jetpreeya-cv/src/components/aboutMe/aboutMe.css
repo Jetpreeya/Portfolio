@@ -1,11 +1,25 @@
 .AboutMe{
     display: flex;
-    align-items: center;
+    flex-direction: row;
     justify-content: center;
     margin-top: 20px;
 }
 .Education{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 300px;
     border: 2px solid #568f90;
+}
 
+.Education-list{
+    display: flex;
+}
+
+.Experience{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    border: 2px solid #875987;
 }
