@@ -20,7 +20,12 @@ const AboutMe = () => {
       <div className="Experience">
         <h2>Experience</h2>
       </div>
-
+      <div className="Experience-list">
+        <ul>
+          <li><h3>Manager </h3>
+            <p>December 2018 - December 2020 : DoiChaang Cafe, Thailand.</p></li>
+        </ul>
+      </div>
     </div>
 
   );
