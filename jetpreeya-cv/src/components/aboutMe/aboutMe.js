@@ -11,9 +11,9 @@ const AboutMe = () => {
           <li><h3>Programmer course .NET C#. </h3>
             <p>April 2022 - Now : Lexicon Malmö, Sweden.</p></li>
           <li><h3>Fullslack web developer intensive course.</h3>
-            <p>August 2021- March 2022 : FooCoding Malmö, Sweden.</p></li>
+            <p>August 2021 - March 2022 : FooCoding Malmö, Sweden.</p></li>
           <li> <h3>Bachelor Degree of Economics.</h3>
-            <p>May 2013- December 2016 : Chiang Mai University, Thailand.</p></li>
+            <p>May 2013 - December 2016 : Chiang Mai University, Thailand.</p></li>
         </ul>
       </div>
 

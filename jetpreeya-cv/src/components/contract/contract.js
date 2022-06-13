@@ -17,6 +17,7 @@ const Contract = () => {
       <div className ="gmail">
       <img src={PicEmail} alt="email" className="email-img"/>
       <a href = "mailto: Jetpreeya.y@gmail.com" className="email-G" >Email</a>
+      <p className ="gmail" >Jetpreeya.Norkaew@gmail.com</p>
       </div>
       </div>
     
