@@ -6,6 +6,9 @@ import PicEmail from "../img/email.png"
 const Contract = () => {
   return (
       <div className = "contract">
+        <div className ="adress">
+        <h4>Malmö Sweden</h4>
+      </div>
       <div className ="link-in">
           <img src={PicLinkedIn} alt="linkedIn" className="linkedin-img"/>
           <a href ="https://www.linkedin.com/in/jetpreeya-yawichai/" className="linkedin-a"> LinkedIn</a>

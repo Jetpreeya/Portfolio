@@ -10,7 +10,6 @@ const About = () => {
       <div className="Name">
         <h1>My name is Jetpreeya Yawichai.</h1>
         <h3>Front-end Web Developer</h3>
-        <h4>Malmö Sweden</h4>
         </div>
     </div>
 
