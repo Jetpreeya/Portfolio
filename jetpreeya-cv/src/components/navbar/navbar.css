@@ -1,0 +1,16 @@
+.TopNav {
+    background-color: rgb(235, 219, 219);
+    color: cornsilk;
+    text-decoration: solid;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ulNav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+a.nounderline{
+    text-decoration: none;
+}

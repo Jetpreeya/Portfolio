@@ -1,0 +1,31 @@
+.contract {
+    display: grid;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 15px;
+    margin-right: 25px;
+
+}
+
+.linkedin-img,
+.github-img, 
+.email-img  {
+    width: 30px;
+    height: 40px;
+    border: 1px;
+    border-radius: 10%;
+}
+
+
+
+.linkedin-a,
+.github,
+.gmail .email-G {
+    display: grid;
+    column-gap: 50px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: cadetblue;
+    font-size: 15px;
+}
