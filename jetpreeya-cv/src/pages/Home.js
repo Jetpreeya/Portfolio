@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Home.css";
 import {FaGithub} from "react-icons/fa";
-import {AiFillLinkedin, AiOutlineGoogle } from "react-icons/ai";
+import {AiFillLinkedin } from "react-icons/ai";
 
 
 function Home(){
