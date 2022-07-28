@@ -23,7 +23,7 @@ export const ProjectList = [
   {
     name: "Pizza menu for restaurant",
     image: Pizza,
-    skills: "C# .NET, Rezor, Database, ASP.NET MVC, CRUD",
+    skills: "C# .NET, Razor, Database, ASP.NET MVC, CRUD",
   },
   {
     name: "Todo List",
