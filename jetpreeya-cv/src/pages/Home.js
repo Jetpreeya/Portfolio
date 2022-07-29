@@ -13,7 +13,7 @@ function Home(){
             <h2>Hi, My Name is Jetpreeya</h2>
             <div className="prompt">
                 <p>Junior front-end developer</p>
-                <a href="https://www.linkedin.com/in/jetpreeya-yawichai/" target="_blank"><AiFillLinkedin /></a>
+                <a href="https://www.linkedin.com/in/jetpreeya-yawichai/"><AiFillLinkedin /></a>
                 <a href="https://github.com/Jetpreeya"><FaGithub/></a>
             </div>
         </div>
