@@ -9,7 +9,7 @@ function Home(){
     return (
     <div className="home">
         <div className="about">
-            <img src={pic} alt="myPic" width="320" height="320"/>
+            <img src={pic} alt="myPic" width="220" height="220"/>
             <h2>Hi, My Name is Jetpreeya</h2>
             <div className="prompt">
                 <p>Junior front-end developer</p>
