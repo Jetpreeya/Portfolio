@@ -20,7 +20,7 @@ function Home(){
         <div className="skills">
             <h1>Skills</h1>
             <ol className="list">
-                <span>ReactJS, JavaScript, Database MySQL, HTML, CSS, NodeJS, C# .NET, Azure, GIT, Github</span>
+                <span>ReactJS, JavaScript, Database MySQL, HTML, CSS, NodeJS, C# .NET, Azure, GIT, Github, Figma</span>
             </ol>
         </div>
     </div>
